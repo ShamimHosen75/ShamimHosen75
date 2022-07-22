@@ -30,4 +30,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShamimHosen75&show_icons=true&theme=highcontrast)
 
-<p><img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=shamimhosen75&" alt="shamimhosen75" /></p>
+<p><img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=shamimhosen75&" alt="shamimhosen75" /></p>
