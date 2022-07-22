@@ -30,4 +30,4 @@
 
 <p><img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=shamimhosen75&" alt="shamimhosen75" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShamimHosen75&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShamimHosen75&show_icons=true&theme=highcontrast align="center")
