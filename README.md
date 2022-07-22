@@ -29,4 +29,4 @@
 <p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamimhosen75&show_icons=true&locale=en&layout=compact" alt="shamimhosen75" /></p>
 
 <p><img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=shamimhosen75&" alt="shamimhosen75" /></p>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShamimHosen75&show_icons=true&theme=highcontrast" /></p>
+<p> <img align="center" width="65%" src="https://github-readme-stats.vercel.app/api?username=ShamimHosen75&show_icons=true&theme=highcontrast" /></p>
