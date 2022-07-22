@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Shamim
-#### Frontend Web Developer
+# Hi there 👋, I'm Shamim
+## Frontend Web Developer
 Experienced Web Developer with a demonstrated history of working in the internet industry. Skilled in Front End Development (JavaScript, Rest API, Reactjs, HTML5, CSS3, Bootstrap, Tailwind CSS), WordPress Expert (Custom Design & Development), Search Engine Optimization (SEO), (Research & Learning Web Development. Engineering Study’s from Diploma In Computer Science & Technology.
 
 Skills: REACT / JS / HTML / CSS / NODE JS / MONGO DB /
