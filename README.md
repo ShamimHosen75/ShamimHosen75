@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shamim</h1>
-<h5 align="center">Hey! Nice to see you.</h5>
+<h4 align="center">Hey! Nice to see you.</h4>
 <h3 align="center">A Passionate Frontend Developer</h3>
-<h5 align="center">Welcome to my GitHub</h5>
-<p align="center">I'm Shamim, MERN Stack Developer from  Bangladesh.</p>
+<h4 align="center">Welcome to my <strong>Github</strong></h4>
+<p align="center">I'm Shamim, <strong>MERN Stack</strong> Developer from  Bangladesh.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamimhosen75&label=Profile%20views&color=0e75b6&style=flat" alt="shamimhosen75" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamimhosen75" alt="shamimhosen75" /></a> </p>
