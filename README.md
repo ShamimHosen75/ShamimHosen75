@@ -16,7 +16,6 @@
 - 📫 How to reach me **billal.shamim75@gmail.com**
 
 - ⚡ Fun fact **I Think I love to learn**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shamimhosen7575" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shamimhosen7575" height="30" width="40" /></a>
@@ -29,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamimhosen75&show_icons=true&locale=en&layout=compact" alt="shamimhosen75" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamimhosen75&show_icons=true&locale=en" alt="shamimhosen75" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShamimHosen75&show_icons=true&theme=highcontrast)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamimhosen75&" alt="shamimhosen75" /></p>
