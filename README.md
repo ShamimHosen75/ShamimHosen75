@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shamim</h1>
 <h4 align="center">Hey! Nice to see you.</h4>
-<h3 align="center">A Passionate <strong>Frontend Developer</strong></h3>
+<h2 align="center">A Passionate <strong>Frontend Developer</strong></h2>
 <h4 align="center">Welcome to my <strong>Github</strong></h4>
 <p align="center">I'm Shamim, <strong>MERN Stack</strong> Developer from <strong>Bangladesh</strong>.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamimhosen75&label=Profile%20views&color=0e75b6&style=flat" alt="shamimhosen75" /> </p>
