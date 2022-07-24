@@ -27,8 +27,8 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ShamimHosen75" src="https://github-readme-streak-stats.herokuapp.com/?user=ShamimHosen75&theme=chartreuse-dark&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=ShamimHosen75&show_icons=true&theme=highcontrast" /></p>
-<p align="right" width="100%"> <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamimHosen75&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+<p><img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=ShamimHosen75&show_icons=true&theme=highcontrast" /></p>
+<p align="right" width="40%"> <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamimHosen75&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
 <br/>
 
 <a href="https://github.com/ShamimHosen75/github-readme-activity-graph"><img alt="SHamim Hosen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShamimHosen75&bg_color=0D1117&color=fc7100&line=#79F301&point=FFFFFF&hide_border=true" /></a>
