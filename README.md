@@ -25,11 +25,14 @@
 
 <p align="center">
     <a href="https://github.com/ShamimHosen75/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ShamimHosen75" src="https://github-readme-streak-stats.herokuapp.com/?user=shamimhosen75&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ShamimHosen75" src="https://github-readme-streak-stats.herokuapp.com/?user=ShamimHosen75&theme=chartreuse-dark&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ShamimHosen75&show_icons=true&theme=highcontrast" /></p>
+<p align="right" width="100%"> <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamimHosen75&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+<br/>
 
-<p> <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=ShamimHosen75&show_icons=true&theme=highcontrast" /></p>
+<a href="https://github.com/ShamimHosen75/github-readme-activity-graph"><img alt="SHamim Hosen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShamimHosen75&bg_color=0D1117&color=fc7100&line=#79F301&point=FFFFFF&hide_border=true" /></a>
 
 ## Connect with me:
 <p align="left">
@@ -37,3 +40,9 @@
 <a href = "https://linkedin.com/in/billal-hosen-shamim"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/shamimhosen7575"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://fb.com/billal.hosen.shamim96"> <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+
+## Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ShamimHosen75">
+</a>
+<a href="https://github.com/ShamimHosen75?tab=followers"><img src="https://img.shields.io/github/followers/ShamimHosen75?label=Followers&style=social" alt="GitHub Badge"></a>
