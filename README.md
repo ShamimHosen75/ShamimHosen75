@@ -4,8 +4,6 @@
 <h4 align="center">Welcome to my <strong>Github</strong></h4>
 <p align="center">I'm Shamim, <strong>MERN Stack</strong> Developer from <strong>Bangladesh</strong>.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamimhosen75" alt="shamimhosen75" /></a> </p>
-
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on **Fiverr**
 
