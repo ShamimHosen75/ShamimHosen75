@@ -38,7 +38,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=Next.js&logoColor=white)
+[![NextJS](https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=Next.js&logoColor=white)](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -69,12 +69,6 @@
 
 <a href="https://github.com/ShamimHosen75/github-readme-activity-graph"><img alt="SHamim Hosen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShamimHosen75&bg_color=0D1117&color=fc7100&line=#79F301&point=FFFFFF&hide_border=true" /></a>
 
-## Connect with me:
-<p align="left">
-
-<a href = "https://linkedin.com/in/billal-hosen-shamim"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/shamimhosen7575"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://fb.com/billal.hosen.shamim96"> <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 
 ## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
