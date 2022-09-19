@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://shamimhosen.netlify.app/](https://shamimhosen.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/billal-hosen-shamim/](billal-hosen-shamim)
 
 - 💬 Ask me about **React, JavaScript, Node JS, MongoDB**
 
