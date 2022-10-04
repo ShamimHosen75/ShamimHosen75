@@ -2,7 +2,7 @@
 <h4 align="center">Hey! Nice to see you.</h4>
 <h2 align="center">A Passionate <strong>Frontend Developer</strong></h2>
 <h4 align="center">Welcome to my <strong>Github</strong></h4>
-<p align="center">I'm an enthusiastic <storng>programmer</storng> working on <strong>Front End</strong> Development for more than 1 year. I'm passionate about coding to make people's daily life more easier. I have been learning new things since I got acquainted with programming.</strong>.</p>
+<p align="center">I'm an enthusiastic <storng>Programmer</storng> working on <strong>FrontEnd</strong> Development for more than 1 year.<br /> I'm passionate about coding to make people's daily life more easier.<br/> I have been learning new things since I got acquainted with programming.</strong>.</p>
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on **Fiverr**
