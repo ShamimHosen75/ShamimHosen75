@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shamim</h1>
-<h4 align="center">Hey! Nice to see you.</h4>
+<h4 align="center">Hey! Nice to see you!</h4>
 <h2 align="center">A Passionate <strong>Frontend Developer</strong></h2>
 <h4 align="center">Welcome to my <strong>Github</strong></h4>
-<p align="center">I'm an enthusiastic <storng>Programmer</storng> working on <strong>FrontEnd</strong> Development for more than 1 year.<br /> I'm passionate about coding to make people's daily life more easier.<br/> I have been learning new things since I got acquainted with programming.</strong>.</p>
+<p align="center">I'm an enthusiastic <strong>Programmer</strong> working on <strong>FrontEnd</strong> Development for more than 1 year.<br /> I'm passionate about coding to make people's daily life more easier.<br/> I have been learning new things since I got acquainted with programming.</strong></p>
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **Fiverr**
+- 🔭 I’m currently working on **Self-Worker**
 
-- 🌱 I’m currently learning **Data Structure & Algorithm**
+- 🌱 I’m currently learning **New Technology[Redux, Nextjs, TypeScript]**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/billal-hosen-shamim/]
 
