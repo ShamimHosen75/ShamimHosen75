@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **billal.shamim75@gmail.com**
 
-- ⚡ Fun fact **I Think I love to learn**
+- ⚡ Fun fact **I think I love to learn something new**
 
 ## Connect with Me
 
