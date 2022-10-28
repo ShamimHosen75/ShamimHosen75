@@ -4,7 +4,8 @@
 <h4 align="center">Welcome to my <strong>Github</strong></h4>
 <p align="center">I'm an enthusiastic <strong>Programmer</strong> working on <strong>Frontend</strong> Development for more than 1 year.<br /> I'm passionate about coding to make people's daily life more easier.<br/> I have been learning new things since I got acquainted with programming.</strong></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=ShamimHosen75](https://github-profile-trophy.vercel.app/?username=ShamimHosen75&theme=onedark)" alt="ShamimHosen75" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShamimHosen75" alt="ShamimHosen75" /></a> </p>
+
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on **Self-Worker**
