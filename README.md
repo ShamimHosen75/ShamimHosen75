@@ -8,8 +8,9 @@
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on **Self-Worker**
+- 🌱 I’m currently learning **CPC with C Programming**
 
-- 🌱 I’m currently learning **New Technology[Redux, Nextjs, TypeScript & Vue js]**
+- 🌱 I’m currently learning **New Technology[Redux Toolkit, TypeScript & Vue js]**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/billal-hosen-shamim/]
 
