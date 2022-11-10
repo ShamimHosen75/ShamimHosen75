@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/billal-hosen-shamim/]
 
-- 💬 Ask me about **React, JavaScript, Node JS, MongoDB**
+- 💬 Ask me about **Web Internet, Technology, React, JavaScript, Node JS, MongoDB**
 
 - 📫 How to reach me **billal.shamim75@gmail.com**
 
