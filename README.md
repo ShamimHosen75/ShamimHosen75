@@ -70,8 +70,6 @@
 <p align="right" width="45%"> <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamimHosen75&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
 <br/>
 
-<a href="https://github.com/ShamimHosen75/github-readme-activity-graph"><img alt="SHamim Hosen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShamimHosen75&bg_color=0D1117&color=fc7100&line=#79F301&point=FFFFFF&hide_border=true" /></a>
-
 
 ## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
