@@ -27,6 +27,12 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShamimHosen75/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/billal-hosen-shamim/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:billal.shamim75@gmail.com)
+<a href="https://shamim-devs.netlify.app/" target="_blank">
+<img
+src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white'
+alt='Billal Hosen Shamim'
+/>
+</a>
 
 ## 💻 Languages and Tools:
 
