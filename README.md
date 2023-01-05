@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **New Technology [Redux Toolkit & TypeScript]**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/billal-hosen-shamim/]
+- 👨‍💻 All of my projects are available in my Portfolio website at [https://shamim-devs.netlify.app/]
 
 - 💬 Ask me about **Web Internet, Technology, React, JavaScript, Node JS, MongoDB**
 
