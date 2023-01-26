@@ -13,12 +13,12 @@
 
 - 👨‍💻 All of my projects are available in my Portfolio website at [https://shamim-devs.netlify.app/]
 
-- 💬 Ask me about **Web Internet, Technology, React, JavaScript, Node JS, MongoDB**
+- 💬 Ask me about **Programming, Web 3.0 Technology, AI, Blockchain, React, JavaScript, Node JS, MongoDB**
 
 - 📫 How to reach me **billal.shamim75@gmail.com**
 
 - ⚡ Fun fact **I think I love to learn & explore something new**
-- 📝 Portfolio : [Shamim Hosen](https://shamim-devs.netlify.app/)
+- 📝 Portfolio : [Shamimhosen](https://shamim-devs.netlify.app/)
 - 📄 Resume : [Download Resume](https://drive.google.com/file/d/1nM1kPz10jLfLzg1qzdQr3tfS8vBF6ihU/view?usp=share_link)
 
 
