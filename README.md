@@ -70,18 +70,12 @@ alt='Billal Hosen Shamim'
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-<p align="center"  width="60%">
-    <a href="https://github.com/ShamimHosen75/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ShamimHosen75" src="https://github-readme-streak-stats.herokuapp.com/?user=ShamimHosen75&theme=chartreuse-dark&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
 ### 🖥⌨ Stats
 
 
 | <a href="https://github.com/ShamimHosen75"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ShamimHosen75&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" alt="Shamim's github stats" /></a> | <a href="https://github.com/ShamimHosen75"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShamimHosen75&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Shamim's github stats" /></a> | 
 | :------------- | :-------------: |
-| <a href="https://github.com/ShamimHosen75"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamimHosen75&layout=compact&theme=tokyonight&hide_border=true" /></a>  | <b>Your { code } can make a difference. <br /> - <i>AlexPy</i></b> |
+| <a href="https://github.com/ShamimHosen75"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamimHosen75&layout=compact&theme=tokyonight&hide_border=true" /></a>  | <b>Your { code } can make a difference. <br /> - <i>Shamim</i></b> |
 
 <br />
 <a href="https://github.com/ShamimHosen75"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=ShamimHosen75&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="AlexPy's github stats" /></a>
