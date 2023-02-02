@@ -79,7 +79,7 @@ alt='Billal Hosen Shamim'
 <p align="right" width="45%"> <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamimHosen75&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
 <br/>
 <br/>
-<a href="https://github.com/ShamimHosen75"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ShamimHosen75&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/ShamimHosen75/"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=alex-pythonista&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="ShamimHosen's github stats" /></a>
 
 ## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
