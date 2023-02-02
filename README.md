@@ -83,9 +83,6 @@ alt='Billal Hosen Shamim'
 <br />
 
 ---
-<br/>
-<br/>
-<a href="https://github.com/ShamimHosen75/"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=ShamimHosen75&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="ShamimHosen's github stats" /></a>
 
 ## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
