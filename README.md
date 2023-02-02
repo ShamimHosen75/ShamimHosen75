@@ -76,9 +76,8 @@ alt='Billal Hosen Shamim'
     </a>
 </p>
 <p><img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=ShamimHosen75&show_icons=true&theme=highcontrast" /></p>
-<p align="right" width="45%"> <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamimHosen75&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
 <br/>
-| <a href="https://github.com/alex-pythonista"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-pythonista&layout=compact&theme=tokyonight&hide_border=true" /></a>  | <b>Your { code } can make a difference. <br /> - <i>AlexPy</i></b> |
+|<a href="https://github.com/alex-pythonista"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-pythonista&layout=compact&theme=tokyonight&hide_border=true" /></a>  | <b>Your { code } can make a difference. <br /> - <i>AlexPy</i></b> |
 <br/>
 <br/>
 <br/>
