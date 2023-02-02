@@ -77,8 +77,9 @@ alt='Billal Hosen Shamim'
 </p>
 <p><img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=ShamimHosen75&show_icons=true&theme=highcontrast" /></p>
 <br/>
-|<a href="https://github.com/alex-pythonista"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-pythonista&layout=compact&theme=tokyonight&hide_border=true" /></a>  | <b>Your { code } can make a difference. <br /> - <i>AlexPy</i></b> |
+<a href="https://github.com/ShamimHosen75"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamimHosen75&layout=compact&theme=tokyonight&hide_border=true" /></a>
 <br/>
+| <b>Your { code } can make a difference. <br /> - <i>AlexPy</i></b> |
 <br/>
 <br/>
 <a href="https://github.com/ShamimHosen75/"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=ShamimHosen75&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="ShamimHosen's github stats" /></a>
