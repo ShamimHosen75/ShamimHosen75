@@ -18,8 +18,8 @@
 - 📫 How to reach me **billal.shamim75@gmail.com**
 
 - ⚡ Fun fact **I think I love to learn & explore something new**
-- 📝 Portfolio : [Shamimhosen](https://shamim-devs.netlify.app/)
-- 📄 Resume : [Download Resume](https://drive.google.com/file/d/1nM1kPz10jLfLzg1qzdQr3tfS8vBF6ihU/view?usp=share_link)
+- 📝 Portfolio : [Shamimhosen.com](https://shamim-devs.netlify.app/)
+- 📄 Resume : [Download](https://drive.google.com/file/d/1nM1kPz10jLfLzg1qzdQr3tfS8vBF6ihU/view?usp=share_link)
 
 
 ## Connect with Me
