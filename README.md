@@ -1,5 +1,6 @@
 <h1 align="center">Hey, 👋 I'm Shamim</h1>
 <h2 align="center">A Passionate <strong>Front-End Developer</strong></h2>
+<h2 align="center">EAT | CODE | SLEEP < repeat </h2>
 <h4 align="center">Welcome to my <strong>Github</strong></h4>
 <p align="center">I'm an <strong>Enthusiastic Programmer</strong> working on <strong>Frontend</strong> Development for more than 1 year.<br /> I'm passionate about coding to make people's daily life more easier.<br/> I have been learning new things since I got acquainted with programming.</strong></p>
 
