@@ -70,10 +70,7 @@ alt='Billal Hosen Shamim'
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-## 🖥 Stats
-
-<h2 align="center">EAT | CODE | SLEEP < repeat </h2>
-
+## 🖥 Stats <h2 align="center">EAT | CODE | SLEEP < repeat </h2>
 
 | <a href="https://github.com/ShamimHosen75"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ShamimHosen75&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" alt="Shamim's github stats" /></a> | <a href="https://github.com/ShamimHosen75"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShamimHosen75&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Shamim's github stats" /></a> | 
 | :------------- | :-------------: |
