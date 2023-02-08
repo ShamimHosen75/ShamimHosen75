@@ -1,6 +1,5 @@
 <h1 align="center">Hey, 👋 I'm Shamim</h1>
 <h2 align="center">A Passionate <strong>Front-End Developer</strong></h2>
-<h3 align="center">𝚆𝚑𝚒𝚕𝚎 (! ( 𝗦𝘂𝗰𝗰𝗲𝘀𝘀 = 𝚝𝚛𝚢()) ); </h3>
 <p align="center">I'm an <strong>Enthusiastic Programmer</strong> working on <strong>Frontend</strong> Development for more than 1 year.<br /> I'm passionate about coding to make people's daily life more easier.<br/> I have been learning new things since I got acquainted with programming.</strong></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShamimHosen75&theme=juicyfresh" alt="linkon63" /></a> </p>
@@ -75,6 +74,7 @@ alt='Billal Hosen Shamim'
 | <a href="https://github.com/ShamimHosen75"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ShamimHosen75&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" alt="Shamim's github stats" /></a> | <a href="https://github.com/ShamimHosen75"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShamimHosen75&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Shamim's github stats" /></a> | 
 | :------------- | :-------------: |
 | <a href="https://github.com/ShamimHosen75"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamimHosen75&layout=compact&theme=tokyonight&hide_border=true" /></a>  | <b>Your { code } can make a difference. <br /> - <i>Shamim</i></b> |
+    <h2 align="center">𝚆𝚑𝚒𝚕𝚎 (! ( 𝗦𝘂𝗰𝗰𝗲𝘀𝘀 = 𝚝𝚛𝚢()) ); </h2>
 
 <br />
 <a href="https://github.com/ShamimHosen75"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=ShamimHosen75&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="Shamim's github stats" /></a>
