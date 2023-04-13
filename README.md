@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **New Technology [Redux Toolkit & TypeScript]**
 
-- 👨‍💻 All of my projects are available in my Portfolio website at [https://shamim-devs.netlify.app/]
+- 👨‍💻 All of my projects are available in my portfolio website at [https://shamim-devs.netlify.app/]
 
 - 💬 Ask me about **Programming, Web 3.0 Technology, AI, Blockchain, React, JavaScript, Node JS, MongoDB**
 
