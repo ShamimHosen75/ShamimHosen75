@@ -6,9 +6,9 @@
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **Company Project**
+- 🔭 I’m currently working on **Company Projects**
 
-- 🌱 I’m currently learning **New Technology [Redux Toolkit & TypeScript]**
+- 🌱 I’m currently learning **New Technology [Redux Toolkit, TypeScript, Vue JS]**
 
 - 👨‍💻 All of my projects are available in my portfolio website at [https://shamim-devs.netlify.app/]
 
