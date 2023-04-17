@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available in my portfolio website at [https://shamim-devs.netlify.app/]
 
-- 💬 Ask me about **Programming, Web 3.0 Technology, AI, Blockchain, React, JavaScript, Node JS, MongoDB**
+- 💬 Ask me about **Programming, Web 3.0 Technology, Artificial Intelligence(AI), Blockchain, React, JavaScript, Node JS, MongoDB**
 
 - 📫 How to reach me **billal.shamim75@gmail.com**
 
