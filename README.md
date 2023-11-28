@@ -10,14 +10,14 @@
 - 🌱 I’m currently learning **New Language in CPC [C & C++]**
 - 🌱 I’m currently learning **New Technology [Redux Toolkit, TypeScript, Vue JS]**
 
-- 👨‍💻 All of my projects are available on my portfolio website at [https://shamim-devs.netlify.app/]
+- 👨‍💻 All of my projects are available on my portfolio website at [https://dev-shamim.web.app/]
 
 - 💬 Ask me about **Programming, Web 3.0 Technology, Artificial Intelligence(AI), Blockchain, React, JavaScript, Node JS, MongoDB**
 
 - 📫 How to reach me **billal.shamim75@gmail.com**
 
 - ⚡ Fun fact **I think I love to learn & explore something new**
-- 📝 Portfolio : [Shamimhosen. com](https://shamim-devs.netlify.app/)
+- 📝 Portfolio : [Shamimhosen. com](https://dev-shamim.web.app/)
 - 📄 Resume : [Download](https://drive.google.com/file/d/1nM1kPz10jLfLzg1qzdQr3tfS8vBF6ihU/view?usp=share_link)
 
 
