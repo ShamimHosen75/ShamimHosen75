@@ -24,7 +24,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png">][<img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png">](https://www.facebook.com/billal.hosen.shamim96/) [<img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png">](https://www.facebook.com/billal.hosen.shamim96/)[<img height="75" src="https://i.ibb.co/BnJqQDY/Twitter.png"> </p>](https://dev-shamim.web.app/)
+[<p align="center"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png">](https://www.linkedin.com/in/billal-hosen-shamim/)[<img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png">](https://www.facebook.com/billal.hosen.shamim96/)[<img height="75" src="https://i.ibb.co/BnJqQDY/Twitter.png"> </p>](https://dev-shamim.web.app/)
 
 <br />
 ## Connect with Me
@@ -64,7 +64,6 @@ alt='Billal Hosen Shamim'
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
 
 
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
