@@ -20,7 +20,13 @@
 - 📝 Portfolio : [Shamimhosen. com](https://dev-shamim.web.app/)
 - 📄 Resume : [Download](https://drive.google.com/file/d/1nM1kPz10jLfLzg1qzdQr3tfS8vBF6ihU/view?usp=share_link)
 
+## :mailbox: Reach me out
 
+<br />
+
+[<p align="center"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png">](https://linkedin.com/in/billal-hosen-shamim/)[<img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png">](https://www.facebook.com/billal.hosen.shamim96/)[<img height="75" src="https://i.ibb.co/BnJqQDY/Twitter.png"> </p>](https://dev-shamim.web.app/)
+
+<br />
 ## Connect with Me
 
 
