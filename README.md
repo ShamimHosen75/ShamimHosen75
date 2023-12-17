@@ -24,11 +24,10 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png">](https://linkedin.com/in/billal-hosen-shamim/)[<img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png">](https://www.facebook.com/billal.hosen.shamim96/)[<img height="75" src="https://i.ibb.co/BnJqQDY/Twitter.png"> </p>](https://dev-shamim.web.app/)
+[<p align="center"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png">](https://www.facebook.com/billal.hosen.shamim96/)[<img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png">](https://www.facebook.com/billal.hosen.shamim96/)[<img height="75" src="https://i.ibb.co/BnJqQDY/Twitter.png"> </p>](https://dev-shamim.web.app/)
 
 <br />
 ## Connect with Me
-
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/billal.hosen.shamim96/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShamimHosen75/)
