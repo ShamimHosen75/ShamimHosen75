@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I think I love to learn & explore something new**
 - 📝 Portfolio : [Shamimhosen. com](https://dev-shamim.web.app/)
-- 📄 Resume : [Download](https://drive.google.com/file/d/1nM1kPz10jLfLzg1qzdQr3tfS8vBF6ihU/view?usp=share_link)
+- 📄 Resume : [Download](https://drive.google.com/file/d/1EaD_pbER4dmxTnsXJinh6L12vnHeyEM4/view?usp=drive_link)
 
 ## :mailbox: Reach me out
 
