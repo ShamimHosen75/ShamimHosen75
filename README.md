@@ -24,7 +24,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png">] [<img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png">](https://www.facebook.com/billal.hosen.shamim96/) (https://www.facebook.com/billal.hosen.shamim96/)[<img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png">](https://www.facebook.com/billal.hosen.shamim96/)[<img height="75" src="https://i.ibb.co/BnJqQDY/Twitter.png"> </p>](https://dev-shamim.web.app/)
+[<p align="center"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png">][<img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png">](https://www.facebook.com/billal.hosen.shamim96/) [<img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png">](https://www.facebook.com/billal.hosen.shamim96/)[<img height="75" src="https://i.ibb.co/BnJqQDY/Twitter.png"> </p>](https://dev-shamim.web.app/)
 
 <br />
 ## Connect with Me
