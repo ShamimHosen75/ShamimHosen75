@@ -26,7 +26,8 @@
 [<p align="center"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png">](https://www.linkedin.com/in/billal-hosen-shamim/)[<img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png">](https://www.facebook.com/billal.hosen.shamim96/)[<img height="75" src="https://i.ibb.co/BnJqQDY/Twitter.png"> </p>](https://dev-shamim.web.app/)
 
 <br />
-## :mailbox: Connect with me
+
+## Connect with me :
 <br />
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShamimHosen75/)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dev-shamim.web.app/)
@@ -80,7 +81,6 @@ alt='Billal Hosen Shamim'
  <h2 align="center">𝚆𝚑𝚒𝚕𝚎 (! ( 𝗦𝘂𝗰𝗰𝗲𝘀𝘀 = 𝚝𝚛𝚢()) ); </h2>
 
 <br />
-<a href="https://github.com/ShamimHosen75"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=ShamimHosen75&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="Shamim's github stats" /></a>
 
 <br />
 
