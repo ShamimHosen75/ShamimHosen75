@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShamimHosen75&theme=juicyfresh" alt="ShamimHosen75"/></a> </p>
 
-
+[<p align="center"><img height="75" src="https://ibb.co/6tkB3s6">]
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on **Company Projects**
 - 🌱 I’m currently learning **New Language in CPC [C & C++]**
