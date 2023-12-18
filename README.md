@@ -27,14 +27,6 @@
 
 <br />
 
-## :mailbox: Connect with me :
-<br />
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShamimHosen75/)
-![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dev-shamim.web.app/)
-![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:billal.shamim75@gmail.com)
-<a href="https://dev-shamim.web.app/" target="_blank">
-<br />
-
 <img
 src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white'
 alt='Billal Hosen Shamim'
