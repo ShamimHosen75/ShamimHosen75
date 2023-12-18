@@ -1,10 +1,10 @@
+[<p align="left"><img height="75" src="https://i.ibb.co/fNsvh0m/panel-111703549-image-1dcd0d61-6ee5-4b9c-b4be-c154ad2beaaa.png">]
 <h1 align="center">Hey, 👋 I'm Shamim</h1>
 <h2 align="center">A Passionate <strong>Web Application Developer</strong></h2>
 <h4 align="center">I'm an <strong>Enthusiastic Programmer</strong> working on <strong>Frontend</strong> Development for more than 1 year.<br /> I'm passionate about coding to make people's daily life easier.<br/> I have been learning new things since I got acquainted with programming.</strong></h4>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShamimHosen75&theme=juicyfresh" alt="ShamimHosen75"/></a> </p>
 
-<p align="left"><img height="75" src="https://i.ibb.co/fNsvh0m/panel-111703549-image-1dcd0d61-6ee5-4b9c-b4be-c154ad2beaaa.png">
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on **Company Projects**
 - 🌱 I’m currently learning **New Language in CPC [C & C++]**
