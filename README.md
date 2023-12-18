@@ -26,13 +26,14 @@
 [<p align="center"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png">](https://www.linkedin.com/in/billal-hosen-shamim/)[<img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png">](https://www.facebook.com/billal.hosen.shamim96/)[<img height="75" src="https://i.ibb.co/BnJqQDY/Twitter.png"> </p>](https://dev-shamim.web.app/)
 
 <br />
-## Connect with Me
-
+## :mailbox: Connect with me
+<br />
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShamimHosen75/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/billal-hosen-shamim/)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dev-shamim.web.app/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:billal.shamim75@gmail.com)
 <a href="https://dev-shamim.web.app/" target="_blank">
+<br />
+
 <img
 src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white'
 alt='Billal Hosen Shamim'
