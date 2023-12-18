@@ -27,11 +27,11 @@
 
 <br />
 
-## Connect with me :
+## :mailbox: Connect with me :
 <br />
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShamimHosen75/)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dev-shamim.web.app/)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:billal.shamim75@gmail.com)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShamimHosen75/)
+![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dev-shamim.web.app/)
+![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:billal.shamim75@gmail.com)
 <a href="https://dev-shamim.web.app/" target="_blank">
 <br />
 
@@ -79,8 +79,6 @@ alt='Billal Hosen Shamim'
 | :------------- | :-------------: |
 | <a href="https://github.com/ShamimHosen75"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamimHosen75&layout=compact&theme=tokyonight&hide_border=true" /></a>  | <h3>Your { code } can make a difference. <br /> - <i>Shamim</i></h3> |
  <h2 align="center">𝚆𝚑𝚒𝚕𝚎 (! ( 𝗦𝘂𝗰𝗰𝗲𝘀𝘀 = 𝚝𝚛𝚢()) ); </h2>
-
-<br />
 
 <br />
 
