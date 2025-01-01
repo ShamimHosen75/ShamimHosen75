@@ -1,17 +1,18 @@
 <h1 align="center">Hey, 👋 I'm Shamim</h1>
 <h2 align="center">A Passionate <strong>Web Application Developer</strong></h2>
-<h4 align="center">I'm an <strong>Enthusiastic Programmer</strong> working on <strong>Frontend</strong> Development for more than 2 year.<br /> I'm passionate about coding to make people's daily life easier.<br/> I have been learning new things since I got acquainted with programming.</strong></h4>
+<h4 align="center">I'm an <strong>Enthusiastic Programmer</strong> working on <strong>Frontend</strong> Development for more than 3 year.<br /> I'm passionate about coding to make people's daily life easier.<br/> I have been learning new things since I got acquainted with programming.</strong></h4>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShamimHosen75&theme=juicyfresh" alt="ShamimHosen75"/></a> </p>
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on **Company Projects**
+- 🌱 I’m currently learning **New Language in Basic [PHP]**
 - 🌱 I’m currently learning **New Language in CPC [C & C++]**
 - 🌱 I’m currently learning **New Technology [Redux Toolkit, TypeScript, Vue JS]**
 
 - 👨‍💻 All of my projects are available on my portfolio website at [https://dev-shamim.web.app/]
 
-- 💬 Ask me about **Programming, Web 3.0 Technology, Artificial Intelligence(AI), Blockchain, React, JavaScript, Node JS, MongoDB**
+- 💬 Ask me about **Programming, Web 3.0 Technology, Artificial Intelligence(AI), Blockchain, React, JavaScript, Node JS, MongoDB, WordPress**
 
 - 📫 How to reach me **billal.shamim75@gmail.com**
 
