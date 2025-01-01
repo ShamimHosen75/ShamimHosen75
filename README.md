@@ -1,6 +1,6 @@
 <h1 align="center">Hey, 👋 I'm Shamim</h1>
 <h2 align="center">A Passionate <strong>Web Application Developer</strong></h2>
-<h4 align="center">I'm an <strong>Enthusiastic Programmer</strong> working on <strong>Frontend</strong> Development for more than 3 year.<br /> I'm passionate about coding to make people's daily life easier.<br/> I have been learning new things since I got acquainted with programming.</strong></h4>
+<h4 align="center">I'm an <strong>Enthusiastic Programmer</strong> working on <strong>Frontend</strong> Development for more than 3 years.<br /> I'm passionate about coding to make people's daily life easier.<br/> I have been learning new things since I got acquainted with programming.</strong></h4>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShamimHosen75&theme=juicyfresh" alt="ShamimHosen75"/></a> </p>
 
