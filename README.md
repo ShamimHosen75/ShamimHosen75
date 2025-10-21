@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on **Company Projects**
-- 🌱 I’m currently learning **New Language in Basic [PHP]**
+- 🌱 I’m currently learning **New Language in Basic [Go/Golang]**
 - 🌱 I’m currently learning **New Language in CPC [C & C++]**
 - 🌱 I’m currently learning **New Technology [Redux Toolkit, TypeScript, Vue JS]**
 
