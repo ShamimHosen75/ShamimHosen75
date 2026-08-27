@@ -17,7 +17,7 @@
 - 📫 How to reach me **billal.shamim75@gmail.com**
 
 - ⚡ Fun fact **I think I love to learn & explore something new**
-- 📝 Portfolio : [Shamimhosen. com](https://dev-shamim.web.app/)
+- 📝 Portfolio : [Shamimhosen. com](https://dev-shamim.vercel.app/)
 - 📄 Resume : [Download](https://drive.google.com/file/d/1EaD_pbER4dmxTnsXJinh6L12vnHeyEM4/view?usp=drive_link)
 
 ## :mailbox: Reach me out
